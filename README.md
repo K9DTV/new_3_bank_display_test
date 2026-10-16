@@ -1,7 +1,8 @@
 # new_3_bank_display_test
 
 [![Compile](https://github.com/K9DTV/new_3_bank_display_test/actions/workflows/compile.yml/badge.svg)](https://github.com/K9DTV/new_3_bank_display_test/actions/workflows/compile.yml)
-[![Status](https://img.shields.io/badge/status-rewrite%20v1.0.0-brightgreen)](https://github.com/K9DTV/new_3_bank_display_test)
+[![Release](https://img.shields.io/github/v/release/K9DTV/new_3_bank_display_test?label=release)](https://github.com/K9DTV/new_3_bank_display_test/releases/latest)
+[![Status](https://img.shields.io/badge/status-rewrite%20v1.0.0-brightgreen)](https://github.com/K9DTV/new_3_bank_display_test/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Arduino%20Pro%20Mini-red)](https://k9dtv.com/project-3-bank-display.html)
 [![Display](https://img.shields.io/badge/display-3x%20PDSP1880-orange)](https://k9dtv.com/project-3-bank-display.html)
